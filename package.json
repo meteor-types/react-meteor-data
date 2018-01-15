@@ -1,0 +1,26 @@
+{
+  "name": "react-meteor-data",
+  "version": "1.0.0",
+  "description": "Type definition for react-meteor-data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteor-types/react-meteor-data.git"
+  },
+  "keywords": [
+    "react-meteor-data"
+  ],
+  "author": "grandmasterdev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor-types/react-meteor-data/issues"
+  },
+  "homepage": "https://github.com/meteor-types/react-meteor-data#readme",
+  "dependencies": {
+    "@types/react": "^16.0.34",
+    "react": "^16.2.0"
+  }
+}
