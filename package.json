@@ -1,8 +1,8 @@
 {
-  "name": "react-meteor-data",
+  "name": "gmd-react-meteor-data",
   "version": "1.0.0",
   "description": "Type definition for react-meteor-data",
-  "main": "index.js",
+  "main": "index.d.ts",
   "scripts": {
     "test": "npm test"
   },
